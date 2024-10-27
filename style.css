@@ -1,0 +1,56 @@
+body{
+    background-color: #a8dadc;
+    /* padding: 2px; */
+}
+.highlight {
+    background-color: orange;
+    font-weight: bold;
+}
+.accordion-item{
+    margin: 5px;
+    /* padding: 10px; */
+}
+
+
+.accordion-button{
+    background-color: #457b9d;
+    color: white;
+    font-weight: bold;
+    font-family: "Noto Serif Telugu", serif;
+    font-size: 1.25rem;
+    padding: 1.5rem;
+    line-height: 2rem;
+}
+.accordion-body{
+    /* background-color: lightseagreen; */
+    background-color: #774936;
+
+}
+.accordion-body p{
+    margin: 30px 5px;
+    padding: 20px;
+    line-height: 2rem;
+    font-weight: 525;
+    text-align: justify;
+    border-radius: 1rem;
+}
+.arabic{
+    /* background-color: #a3b18a; */
+    background-color: #74c69d;
+    direction: rtl;
+    font-family: 'Amiri', Arial, sans-serif;
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+.telugu-transliteration{
+    background-color: #f5cac3;
+    font-family: "Noto Serif Telugu", serif;
+}
+.telugu-meaning{
+    background-color: #ddb892;
+    font-family: "Noto Serif Telugu", serif;
+}
+.english{
+    background-color: #cbc0d3;
+    font-family: "Noto Serif Telugu", serif;
+}
